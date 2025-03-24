@@ -48,7 +48,7 @@ nav{
 }
 nav h2{
     font-style: italic;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: bold;
 
 }
@@ -90,7 +90,7 @@ nav li{
 }
 #why-choose-us{
     padding: 10px;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 
 }
 .grid-container{
@@ -266,7 +266,7 @@ footer *{
 /* GLOBAL STYLES */
 body{
     background-color: var(--page-color);
-    max-width: 450px;
+    width: 450px;
     margin: 0 auto;
     font-family: "Poppins",Helvetica, Arial, sans-serif;
 }
