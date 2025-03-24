@@ -17,6 +17,7 @@ h1, h2{
     color: var(--header-pri);
     font-size: 2.2rem;
     font-weight: 100;
+    padding: 3px;
 }
 header p{
     color: var(--header-pri);
@@ -29,9 +30,11 @@ nav h2{
 h3{
     color: var(--header-sec);
     font-weight: bold;
+    padding: 3px;
 }
 h4{
     color: var(--header-thr);
+    padding: 4px;
 }
 /* Formatting */
 header h1, header p{
